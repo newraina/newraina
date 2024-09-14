@@ -1,4 +1,4 @@
-👋 I'm a software engineer with a focus on front-end development, and lately, I've been diving into smart contracts too.
+👋 I'm a software engineer focusing on front-end development, and lately, I've been diving into smart contracts too.
 
 
 **💻 Programming languages (order by proficiency desc):**
