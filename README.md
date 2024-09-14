@@ -5,6 +5,6 @@
 
 JavaScript - Rust - Move
 
-**🗣️ Human languages (order by fluency DESC):**
+**🗣️ Human languages (order by fluency desc):**
 
 Chinese(Mandarin) - English - Japanese
