@@ -1,9 +1,9 @@
-👋 I'm a software engineer focusing on front-end development, and recently started exploring smart contracts.
+👋 I'm a software engineer focusing on front-end development.
 
 
 **💻 Programming languages (order by proficiency desc):**
 
-JavaScript - Rust - Move
+JavaScript - Rust
 
 **🗣️ Human languages (order by fluency desc):**
 
